@@ -144,6 +144,11 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
 
 **Thanks for stopping by! Happy coding! 🚀**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6&height=150&section=footer&fontSize=0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=0" alt="Wave footer">
+</picture>
+</div>
 
 </div>
