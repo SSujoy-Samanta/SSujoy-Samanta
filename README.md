@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Sujoy Samanta
 
-### Full-Stack Developer | Blockchain Enthusiast | DevOps Explorer
+### Full-Stack Developer | Blockchain & AI Enthusiast | DevOps Explorer
 
 *Building elegant solutions for complex problems, one commit at a time*
 
